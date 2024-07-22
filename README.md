@@ -32,7 +32,7 @@ I have two years of work experience as a systems engineer, and I am currently st
 * **[minitalk](https://github.com/leebo155/minitalk)**   
   A small data exchange program using UNIX signals.
 
-* **[phliosphers](https://github.com/leebo155/phliosphers)**   
+* **[phliosphers](https://github.com/leebo155/philosphers)**   
   Dining Philosophers Problem Simulator.
   
 * **[fdf](https://github.com/leebo155/fdf)**   
