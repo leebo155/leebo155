@@ -77,3 +77,14 @@
   - Pingpong 게임을 서비스하는 웹을 만들어보는 과제입니다.
   - RESRful 방식을 통해 클라이언트 서버 통신구조를 학습할 수 있습니다.
   - 웹소켓을 통해 비동기 게임/대기방 로직을 구현했습니다.
+   
+<br>[<img alt="main" src="https://github.com/leebo155/leebo155/blob/main/github_profile_potenup.png">](https://www.wanted.co.kr/events/preopen_potenup)
+* 게임 개발자로써 C++와 언리얼 엔진의 구조와 기능을 깊이 있게 학습하여 개발역량을 주니어 수준으로 높이는 학습과정입니다.
+* 많은 게임개발 현업자 인터뷰를 통해 개발환경 및 협업 프로세스 등과 같은 실질적인 커뮤니케이션 역량을 얻을 수 있었습니다.
+* 게임 서버를 만들기 전 게임 클라이언트에 대한 이해와 게임 프로젝트 구조를 학습할 수 있었습니다.
+
+### Project
+
+* **[RunBetterRun](https://github.com/leebo155/RunBetterRun)**   
+  - WinAPI를 사용한 타일맵 게임을 제작하는 것을 목적으로 제작하였습니다.
+  - RayCasting을 이용한 1인칭 시점의 공포게임 입니다.
